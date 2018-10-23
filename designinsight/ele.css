@@ -1,0 +1,43 @@
+html{ 
+	background:#eee; 
+}
+
+
+
+body{ 
+	width:90%;
+	max-width: 1999px; 
+	background:#fff;
+	margin:10em auto 10em; 
+	padding-top:1em;
+	border:1px solid #ddd;
+	border-width:0 1px;}
+
+.container{
+	margin: 50px;
+}
+
+#tagline{ 
+	color:#313131; 
+	font-size:1.5em; 
+	margin:0.6em 0 0.6em; 
+	padding-bottom:0.6em; 
+	border-bottom:3px double #eee; 
+}
+
+.section{ margin-bottom:3em;}
+
+.explain{
+	color: #9f9f9f;
+	line-height: 50%
+}
+
+.details1{
+	margin-top: 1.2em;
+}
+
+
+
+
+
+
